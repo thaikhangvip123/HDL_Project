@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Nov 25 21:35:31 2024
+# Process ID: 24548
+# Current directory: E:/DoorLock/Project_HDL
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16100 E:\DoorLock\Project_HDL\Project_HDL.xpr
+# Log file: E:/DoorLock/Project_HDL/vivado.log
+# Journal file: E:/DoorLock/Project_HDL\vivado.jou
+# Running On: DESKTOP-GG3TREE, OS: Windows, CPU Frequency: 3302 MHz, CPU Physical cores: 4, Host memory: 17011 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/DoorLock/Project_HDL/Project_HDL.xpr
+update_compile_order -fileset sources_1
